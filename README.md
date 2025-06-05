@@ -5,7 +5,7 @@
 
 
 - 🔭 Сейчас работаю в команде приложения Tabit и развиваю свои pet проекты
-- 📫 Как со мной связаться: @aleksandr_lil, korovins94@yandex.ru
+- 📫 Как со мной связаться: @aleksandr_lil, KorovinFront@yandex.ru
 
 ## 💻 Мой стек
 
