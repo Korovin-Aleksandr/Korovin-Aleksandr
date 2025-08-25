@@ -4,7 +4,7 @@
 </p>
 
 
-- 🔭 Сейчас работаю в команде приложения Tabit и развиваю свои pet проекты
+
 - 📫 Как со мной связаться: @aleksandr_lil, KorovinFront@yandex.ru
 
 ## 💻 Мой стек
@@ -24,9 +24,3 @@
   <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=protocols&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-000000?style=flat&logo=abstract&logoColor=white" />
 </p>
-
-## 🧪 Pet-проекты
-
-- 🧾 **[schitalka](https://github.com/Korovin-Aleksandr/schitalka)** — MVP-приложение на TypeScript.
-
----
